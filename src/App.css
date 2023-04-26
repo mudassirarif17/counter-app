@@ -1,0 +1,29 @@
+.cart-counter{
+  background-color: blue;
+  color: white;
+  text-align: center;
+  font-size: 26px;
+  margin: 5px 0px;
+}
+.btn-parent{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  background-color: blue;
+  color: white;
+  border: none;
+  margin: 0px 5px;
+  border-radius: 8px;
+  font-size: 22px;
+}
+.btn:hover{
+  cursor: pointer;
+}
+.total-counter{
+  background-color: burlywood;
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  margin: 5px 0px;
+}
